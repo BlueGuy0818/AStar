@@ -1,0 +1,8 @@
+编号	名称	加成属性	一级属性值	二级属性值	三级属性值	四级属性值	五级属性值	六级属性值	七级属性值	八级属性值	九级属性值	十级属性值
+id	name	jiaChengShuXing	yiJiShuXingZhi	erJiShuXingZhi	sanJiShuXingZhi	siJiShuXingZhi	wuJiShuXingZhi	liuJiShuXingZhi	qiJiShuXingZhi	baJiShuXingZhi	jiuJiShuXingZhi	shiJiShuXingZhi
+int	string	string	int	int	int	int	int	int	int	int	int	int
+26001	白虎石	物理攻击	100	300	600	1000	1500	2100	2800	3600	4500	5500
+26002	玄武石	物理防御	50	150	300	500	750	1050	1400	1800	2250	2750
+26003	朱雀石	法术攻击	100	300	600	1000	1500	2100	2800	3600	4500	5500
+26004	青龙石	法术防御	50	150	300	500	750	1050	1400	1800	2250	2750
+26005	血石	生命值	50	150	300	500	750	1050	1400	1800	2250	2750

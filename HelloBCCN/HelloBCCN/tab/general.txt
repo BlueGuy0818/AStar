@@ -1,0 +1,30 @@
+编号	姓名	职业	职业名称	攻击属性	性别	武力	智力	体力	敏捷	星级	暴击率	格挡率	闪避率	命中率	识破率	暴击伤害	天赋	技能	技能特效	图片	动画
+id	name	ZhiYe	zhiYeMingCheng	gongJiShuXing	xingBie	wuLi	zhiLi	tiLi	minJie	xingJi	BaoJiLv	geDangLv	shanBiLv	mingZhongLv	shiPoLv	baoJiShangHai	tianFu	jiNeng	jiNengTeXiao	tuPian	dongHua
+int	string	int	string	int	int	int	int	int	int	float	float	float	float	float	float	int	string	string	string	string	string
+1	李傕	1	猛将	1	1	80	60	80	0	3	0	0	0	0	0	0	悍勇	力斩	LiZhan	LiJue	LiHuaiAnimation
+2	郭汜	1	猛将	1	1	80	60	80	0	3	0	0	0	0	0	0	强悍	愤怒一击	FenNuYiJi	GuoSi	GuoSiAnimation
+3	徐荣	1	猛将	1	1	75	55	75	0	2	0	0	0	0	0	0	宿将	十面埋伏	FenNuYiJi	XuRong	XuRongAnimation
+4	牛辅	1	猛将	1	1	70	50	70	0	1	0	0	0	0	0	0	坚强	奋力一击	LiZhan	NiuFu	NiuFuAnimation
+5	李儒	2	谋士	2	1	60	80	80	0	3	0	0	0	0	0	0	洞彻	千军破	QianJunPo	LiRu	LiRuAnimation
+6	张济	1	猛将	1	1	80	60	80	0	3	0	0	0	0	0	0	凶兽	和解之力	FenNuYiJi	ZhangJi	ZhangJiAnimation
+7	华雄	1	猛将	1	1	80	60	80	0	3	0	0	0	0	0	0	疯狂	无极连杀	LiZhan	HuaXiong	HuaXiongAnimation
+8	吕布	1	猛将	1	1	99	80	99	2	5	0.03	0.04	0.05	0.04	0	0	军神	鬼哭神嚎	GuiKuShenHao	LvBu	LvBuAnimation
+9	颜良	1	猛将	1	1	80	60	80	0	3	0	0	0	0	0	0	咆哮	横扫千军	GuiKuShenHao	YanLiang	
+10	文丑	1	猛将	1	1	80	60	80	0	3	0	0	0	0	0	0	莽撞	震荡猛击	GuiKuShenHao	WenChou	
+11	田丰	2	谋士	2	1	60	80	80	0	3	0	0	0	0	0	0	刚谏	摄魂琴音	GuiKuShenHao	TianFeng	
+12	淳于琼	1	猛将	1	1	80	60	80	0	3	0	0	0	0	0	0	勇敢	誓死抗击	GuiKuShenHao	chunYuQiong	
+13	袁绍	2	谋士	2	1	60	80	80	0	3	0	0	0	0	0	0	名望	鼓舞三军	GuiKuShenHao	YuanShao	
+14	袁术	2	谋士	2	1	55	75	75	0	2	0	0	0	0	0	0	儒子	振奋	GuiKuShenHao	YuanShu	
+15	于禁	1	猛将	1	1	80	60	80	0	3	0	0	0	0	0	0	霸烈	弑破	GuiKuShenHao	YuJin	
+16	张郃	1	猛将	1	1	90	70	90	1	4	0.01	0.02	0.03	0.02	0	0	蔑世	幻影雷罚	GuiKuShenHao	ZhangHe	
+17	徐晃	1	猛将	1	1	90	70	90	1	4	0.01	0.02	0.03	0.02	0	0	狂霸	玉石俱焚	GuiKuShenHao	XuHuang	
+18	许褚	1	猛将	1	1	95	75	95	1	4.5	0.02	0.03	0.04	0.03	0	0	虎痴	玉石俱焚	GuiKuShenHao	XuChu	
+19	曹操	2	谋士	2	1	80	99	99	2	5	0.03	0.04	0.05	0.04	0	0	枭雄	号令天下	GuiKuShenHao	CaoCao	
+20	太史慈	1	猛将	1	1	95	75	95	1	4.5	0.02	0.03	0.04	0.03	0	0	天义	笃烈之风	GuiKuShenHao	TaiShiCi	
+21	张辽	1	猛将	1	1	95	75	95	1	4.5	0.02	0.03	0.04	0.03	0	0	虎贲	玉石俱焚	GuiKuShenHao	ZhangLiao	
+22	甘宁	1	猛将	1	1	95	75	95	1	4.5	0.02	0.03	0.04	0.03	0	0	百骑	百骑劫营	GuiKuShenHao	GanNing	
+23	吕蒙	2	谋士	2	1	70	90	90	1	4	0.01	0.02	0	0.02	0.03	0	儒将	破怒之击	GuiKuShenHao	LvMeng	
+24	满宠	2	谋士	2	1	60	80	80	0	3	0	0	0	0	0	0	洞彻	怒气中烧	GuiKuShenHao	ManChong	
+25	庞德	1	猛将	1	1	90	70	90	1	4	0.01	0.02	0.03	0.02	0	0	壮候	幻影雷罚	GuiKuShenHao	PangDe	
+26	曹仁	1	猛将	1	1	90	70	90	1	4	0.01	0.02	0.03	0.02	0	0	奸毒	绝望斩	GuiKuShenHao	CaoRen	
+27	陆逊	2	谋士	2	1	70	90	90	1	4	0.01	0.02	0	0.02	0.03	0	雄才	火烧连营	GuiKuShenHao	LuXun	

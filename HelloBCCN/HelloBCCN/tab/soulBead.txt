@@ -1,0 +1,13 @@
+编号	名称	种类	属性值	等级	开启等级	动画
+id	name	zhongLei	shuXingZhi	dengJi	kaiQiJiShu	dongHua
+int	string	int	float	int	int	string
+30201	武力魂	1	10	1	15	HunZhuEffect1
+30202	智力魂	2	10	1	15	HunZhuEffect2
+30203	体力魂	3	15	1	15	HunZhuEffect3
+30204	怒气魂	4	1	1	15	HunZhuEffect4
+30205	暴击魂	5	0.02	1	15	HunZhuEffect5
+30206	闪避魂	6	0.01	1	15	HunZhuEffect6
+30207	识破魂	7	0.01	1	15	HunZhuEffect7
+30208	命中魂	8	0.01	1	15	HunZhuEffect8
+30209	格挡魂	9	0.02	1	15	HunZhuEffect9
+30210	暴击伤害魂	10	0.05	1	15	HunZhuEffect10

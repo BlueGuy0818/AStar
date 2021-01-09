@@ -1,0 +1,14 @@
+编号	名字	图片
+id	name	tuPian
+int	string	string
+0	基础阵法	JiChu
+1	一字长蛇阵	YiZiChangShe
+2	二龙出水阵	ErLongChuShui
+3	天地三才阵	TianDiSanCai
+4	四门斗底阵	SiMenDouDi
+5	五虎群羊阵	WuHuQunYang
+6	六丁六甲阵	LiuDingLiuJia
+7	北斗七星	BeiDouQiXin
+8	八门金锁阵	BaMenJinSuo
+9	九子连环阵	JiuZiLianHuan
+10	十面埋伏阵	ShiMianMaiFu

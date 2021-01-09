@@ -1,0 +1,16 @@
+编号	名称	动画	攻击	生命	级别
+id	name	dongHua	gongJi	shengMing	jiBie
+int	string	string	int	int	int
+20001	刀兵	DaoBinAnimation	10	100	0
+20002	戟兵	JiBinAnimation	20	200	0
+20003	盾兵	DunBinAnimation	30	300	0
+20004	弓箭兵	GongBinAnimation	40	400	0
+20005	骑兵	QiBinAnimation	50	500	0
+20006	李傕	LiHuaiAnimation	200	500	1
+20007	郭汜	GuoSiAnimation	200	500	1
+20008	徐荣	XuRongAnimation	300	800	1
+20009	牛辅	NiuFuAnimation	300	800	1
+20010	李儒	LiRuAnimation	500	1000	1
+20011	张济	ZhangJiAnimation	500	1000	1
+20012	华雄	HuaXiongAnimation	800	1500	1
+20013	吕布	LvBuAnimation	1000	2000	1

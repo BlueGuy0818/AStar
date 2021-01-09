@@ -1,0 +1,33 @@
+﻿生成启动时间为 2021/1/4 18:48:21。
+     1>项目“C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\samples\Cpp\HelloBCCN\proj.win32\HelloBCCN.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\samples\Cpp\HelloBCCN\proj.win32\..\..\..\..\cocos2dx" /I"C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\samples\Cpp\HelloBCCN\proj.win32\..\..\..\..\cocos2dx\include" /I"C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\samples\Cpp\HelloBCCN\proj.win32\..\..\..\..\cocos2dx\kazmath\include" /I"C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\samples\Cpp\HelloBCCN\proj.win32\..\..\..\..\cocos2dx\platform\win32" /I"C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\samples\Cpp\HelloBCCN\proj.win32\..\..\..\..\cocos2dx\platform\third_party\win32" /I"C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\samples\Cpp\HelloBCCN\proj.win32\..\..\..\..\cocos2dx\platform\third_party\win32\OGLES" /I"C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\samples\Cpp\HelloBCCN\proj.win32\..\..\..\..\cocos2dx\platform\third_party\win32\pthread" /I"C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\samples\Cpp\HelloBCCN\proj.win32\..\..\..\..\external" /I"C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\samples\Cpp\HelloBCCN\proj.win32\..\..\..\..\external\chipmunk\include\chipmunk" /I"C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\samples\Cpp\HelloBCCN\proj.win32\..\..\..\..\external\libwebsockets\win32\include" /I"C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\samples\Cpp\HelloBCCN\proj.win32\..\..\..\..\CocosDenshion\include" /I"C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\samples\Cpp\HelloBCCN\proj.win32\..\..\..\..\extensions" /I"C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\samples\Cpp\HelloBCCN\proj.win32\..\..\..\..\extensions\network" /I..\Classes /I.. /ZI /nologo /W3 /WX- /Od /Oy- /D __WINDOWS__ /D _WIN32_ /D WIN32 /D _DEBUG /D _WINDOWS /D __WINDOWS__ /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc110.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\Debug.win32\HelloBCCN.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\Debug.win32\\" libExtensions.lib libcocos2d.lib libCocosDenshion.lib opengl32.lib glew32.lib libBox2d.lib libchipmunk.lib libcurl_imp.lib websockets.lib pthreadVCE2.lib libiconv.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\Debug.win32\HelloBCCN.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\Debug.win32\HelloBCCN.lib" /MACHINE:X86 /SAFESEH Debug.win32\TianXiaDiYi.res
+         Debug.win32\SteeringBehavious.obj
+         Debug.win32\PathFind.obj
+         Debug.win32\SpriteStates.obj
+         Debug.win32\StateMachine.obj
+         Debug.win32\AppDelegate.obj
+         Debug.win32\Input.obj
+         Debug.win32\MainCityScene.obj
+         Debug.win32\Player.obj
+         Debug.win32\Sprite.obj
+         Debug.win32\HelloBCCN.obj
+         Debug.win32\FightingMap.obj
+         Debug.win32\MainCity.obj
+         Debug.win32\DataBase.obj
+         Debug.win32\DBC.obj
+         Debug.win32\tinystr.obj
+         Debug.win32\tinyxml.obj
+         Debug.win32\tinyxmlerror.obj
+         Debug.win32\tinyxmlparser.obj
+         Debug.win32\utf8vector.obj
+         Debug.win32\main.obj
+         HelloBCCN.vcxproj -> C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\Debug.win32\HelloBCCN.exe
+     1>已完成生成项目“C:\Users\Administrator\Downloads\cocos2d-x-2.2.6\samples\Cpp\HelloBCCN\proj.win32\HelloBCCN.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.24

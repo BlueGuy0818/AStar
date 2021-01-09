@@ -1,0 +1,8 @@
+编号	名称	等级	加成点数	消耗品
+id	name	dengJi	jiaChengDianShu	xiaoHaoPin
+int	string	int	int	string
+30701	第一次进阶	50	20	1|1|1
+30702	第二次进阶	80	40	1|1|1
+30703	第三次进阶	100	80	1|1|1
+30704	第四次进阶	120	160	1|1|1
+30705	第五次进阶	150	320	1|1|1

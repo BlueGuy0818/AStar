@@ -1,0 +1,11 @@
+编号	名称	种类	图片	描述	卖出价格
+id	name	zhongLei	tuPian	miaoShu	maiChuJiaGe
+int	string	int	string	string	int
+26001	白虎石	1	baiHuShi	神兽之石，可用于武器的镶嵌，提高物理攻击。	1000
+26002	玄武石	2	xuanWuShi	神兽之石，可用于铠甲的镶嵌，提高物理防御	1000
+26003	朱雀石	3	zhuQueShi	神兽之石，可用于武器的镶嵌，提高法术攻击	1000
+26004	青龙石	4	qingLongShi	神兽之石，可用于披风的镶嵌，提高法术防御	1000
+26005	血石	5	xueShi	混沌中出，嗜血灵石，可用于兵符的镶嵌，提高生命	1000
+26006	强化石	6	qiangHuaShi	用于强化装备，提高装备的属性。	1000
+26007	幸运石	7	xingYunShi	提高装备强化成功的概率	1000
+26008	保护石	8	baoHuShi	保证装备强化失败不掉落等级	1000

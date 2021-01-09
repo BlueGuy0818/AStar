@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="win32">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Classes\AI">
+      <UniqueIdentifier>{2db707f2-c8c9-4e32-a6c3-55e389d6e584}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Scene">
+      <UniqueIdentifier>{93ac3045-9a3b-4dc3-ae17-7229a0c81ae5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Sprite">
+      <UniqueIdentifier>{9844ff6f-4f72-4646-8099-1ff4c0b43d8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\tinyxml">
+      <UniqueIdentifier>{b82fce8f-cb65-48fe-81f7-bbf516ea47b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\TileMap">
+      <UniqueIdentifier>{0a660f08-95ea-441d-86b8-5fc4816f6921}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Input">
+      <UniqueIdentifier>{c2ebbb68-fca4-48cb-8876-cae97b2111a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\tinytab">
+      <UniqueIdentifier>{0a86526e-72a7-4242-9ef7-ffb8ff316543}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\UTF8">
+      <UniqueIdentifier>{2f07bf42-0564-45e6-8981-678fc3b24da9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\tinyxml\tinyxmlparser.cpp">
+      <Filter>Classes\tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\tinyxml\tinystr.cpp">
+      <Filter>Classes\tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\tinyxml\tinyxml.cpp">
+      <Filter>Classes\tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\tinyxml\tinyxmlerror.cpp">
+      <Filter>Classes\tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AI\SpriteStates.cpp">
+      <Filter>Classes\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AI\StateMachine.cpp">
+      <Filter>Classes\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scene\MainCityScene.cpp">
+      <Filter>Classes\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Sprite\Player.cpp">
+      <Filter>Classes\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Sprite\Sprite.cpp">
+      <Filter>Classes\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TileMap\MainCity.cpp">
+      <Filter>Classes\TileMap</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Input\Input.cpp">
+      <Filter>Classes\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AI\PathFind.cpp">
+      <Filter>Classes\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AI\SteeringBehavious.cpp">
+      <Filter>Classes\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TileMap\FightingMap.cpp">
+      <Filter>Classes\TileMap</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\tinytab\DataBase.cpp">
+      <Filter>Classes\tinytab</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\tinytab\DBC.cpp">
+      <Filter>Classes\tinytab</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\UTF8\utf8vector.cpp">
+      <Filter>Classes\UTF8</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloBCCN.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppMacros.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\tinyxml\tinystr.h">
+      <Filter>Classes\tinyxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\tinyxml\tinyxml.h">
+      <Filter>Classes\tinyxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AI\SpriteStates.h">
+      <Filter>Classes\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AI\StateMachine.h">
+      <Filter>Classes\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AI\States.h">
+      <Filter>Classes\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scene\MainCityScene.h">
+      <Filter>Classes\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Sprite\Player.h">
+      <Filter>Classes\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Sprite\Sprite.h">
+      <Filter>Classes\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TileMap\MainCity.h">
+      <Filter>Classes\TileMap</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Input\Input.h">
+      <Filter>Classes\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AI\PathFind.h">
+      <Filter>Classes\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AI\SteeringBehavious.h">
+      <Filter>Classes\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TileMap\FightingMap.h">
+      <Filter>Classes\TileMap</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\tinytab\BaseType.h">
+      <Filter>Classes\tinytab</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\tinytab\DataBase.h">
+      <Filter>Classes\tinytab</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\tinytab\DBC.h">
+      <Filter>Classes\tinytab</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\tinytab\DBC_Struct.h">
+      <Filter>Classes\tinytab</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\tinytab\IDataBase.h">
+      <Filter>Classes\tinytab</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UTF8\utf8vector.h">
+      <Filter>Classes\UTF8</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloBCCN.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TianXiaDiYi.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Resources\TianXiaDiYi.ico" />
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+</Project>
